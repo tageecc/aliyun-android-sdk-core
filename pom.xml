@@ -7,6 +7,28 @@
     <version>4.0.3</version>
     <groupId>com.aliyuncs</groupId>
     <artifactId>aliyun-android-sdk-core</artifactId>
+
+    <description>aliyun-java-sdk-core for android based on v4.0.3</description>
+    <licenses>
+        <license>
+            <name></name>
+            <url></url>
+            <distribution></distribution>
+        </license>
+    </licenses>
+    <scm>
+        <connection>scm:git:git://github.com/aliyun/aliyun-openapi-java-sdk.git</connection>
+        <developerConnection>scm:git:git@github.com:aliyun/aliyun-openapi-java-sdk.git</developerConnection>
+        <url>https://github.com/aliyun/aliyun-openapi-java-sdk</url>
+    </scm>
+    <developers>
+        <developer>
+            <id>aliyunproducts</id>
+            <name>tagee</name>
+            <email>tageecc@gmail.com</email>
+        </developer>
+    </developers>
+
     <dependencies>
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
